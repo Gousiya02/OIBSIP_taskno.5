@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+}
+
+.first {
+    height: 80vh;
+    margin-top: 30px;
+}
+
+.first img {
+    height: 500px;
+    margin-left: 40px;
+}
+
+.head {
+    float: right;
+    font-size: 85px;
+    padding: 125px 55px;
+    color: white;
+    text-shadow: 0px 0px 20px red, 0 0 25px blue
+}
+
+.second {
+    height: 80vh;
+
+}
+
+.second h1 {
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    padding: 30px;
+    font-family: Cambria;
+}
+
+.second p {
+    color: white;
+    width: 990px;
+    text-align: center;
+    margin-left: 280px;
+    font-size: 25px;
+}
+
+.third {
+    height: 80vh;
+}
+
+.third img {
+    border-radius: 50%;
+    float: right;
+    margin-top: 100px;
+    width: 660px;
+    margin-right: 40px;
+    box-shadow: 2px 1px 26px rgba(91, 131, 192, 0.4);
+}
+
+.third p {
+    color: white;
+    font-size: 30px;
+    padding: 140px 0;
+    width: 582px;
+    margin-left: 40px;
+}
+
+.four {
+    height: 130vh;
+
+}
+
+.four h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.four p {
+    border: 1px solid wheat;
+    color: white;
+    width: 400px;
+    padding: 50px;
+    margin-left: 500px;
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: cursive;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(47 75 89 / 42%);
+    box-shadow: 2px 1px 26px rgba(91, 131, 192, 0.4);
+}
